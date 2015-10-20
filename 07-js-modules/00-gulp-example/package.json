@@ -1,14 +1,14 @@
 {
-  "name": "05-oo-js",
+  "name": "07-oo-js",
   "version": "1.0.0",
   "description": "",
-  "main": "gulpconfig.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-sass": "^2.0.4"
   }

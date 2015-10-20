@@ -1,0 +1,22 @@
+@import "_reset.scss";
+@import "_button.scss";
+
+body {
+  background-color: hotpink;
+}
+
+.modal {
+  display: none;
+  width: 50vw;
+  height: 50vh;
+  background-color: #fff;
+  border: 3px black solid;
+  position: absolute;
+  top: 25vh;
+  left: 25vw;
+  font-size: 3vw;
+}
+
+.open {
+  display: block;
+}

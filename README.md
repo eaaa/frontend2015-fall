@@ -2,7 +2,7 @@
 
 ## Installation guide
 Install Node.js from <a href="nodejs.org">nodejs.org</a>
-Navigate to the folder (with your preferred Command Line Interface - Terminal, Git Bash, etc.), where you have downloaded the example code files, and type:
+<p>Navigate to the folder (with your preferred Command Line Interface - Terminal, Git Bash, etc.), where you have downloaded the example code files, and type:</p>
 <p><code>npm install</code></p> to install the necessary Node.js modules
 If you want to use Gulp - remember to install Gulp globally:
 <p><code>npm install -g gulp</code></p> 

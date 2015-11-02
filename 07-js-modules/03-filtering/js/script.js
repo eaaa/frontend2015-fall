@@ -23,10 +23,6 @@
       }
             
       var changeFilterItem = function(e){
-/*        if(e.bubbles) {
-          document.querySelector("[data-all-filters]");
-        }
-*/          
         var filterSelector = e.target;
         var filter = filterSelector.getAttribute("data-filter");
         var filterItems = document.querySelectorAll("[data-item=" + filter + "]");

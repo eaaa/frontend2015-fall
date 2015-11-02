@@ -1,7 +1,7 @@
 (function(){
 	"use strict";
 
-	var filtering = (function(){
+    var filtering = (function(){
       
       var filterSelectors = null;
       

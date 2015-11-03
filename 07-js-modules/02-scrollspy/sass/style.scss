@@ -1,0 +1,52 @@
+@import "_reset.scss";
+
+body {
+  background-color: rebeccapurple;
+}
+
+nav {
+  height: 10vh;
+  position: fixed;
+  top: 0;
+  background-color: greenyellow;
+  width: 100vw;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.active {
+  background-color: black;
+  color: white;
+  padding: 1.5em;
+  line-height: 4em;
+}
+
+.panel {
+  height: 100vh;
+  width: 100vw;
+  font-size: 10em;
+  color: #fff;
+  line-height: 3em;
+}
+
+#panel1{
+  background-color: yellow;
+}
+
+#panel2{
+  background-color:palevioletred;
+}
+
+#panel3{
+  background-color: orange;
+}
+
+#panel4{
+  background-color: deepskyblue;
+}
+
+
+
